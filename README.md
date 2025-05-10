@@ -29,11 +29,9 @@ telegram-voice-bot/
 ├── requirements.txt         # Зависимости
 ├── README.md                # Описание проекта
 ├── LICENSE                  # MIT лицензия
-├── .gitignore               # Исключения Git
-├── notebook/
-│   └── notebook.ipynb       # Исходный Google Colab
-├── experiments/  
-│   └── echo_bot_.py         # Эхо всех видов сообщений
+├── experiments/
+├── notebook.ipynb       # Исходный Google Colab
+└── echo_bot_.py         # Эхо всех видов сообщений
 ```
 
  ## 💡 Примеры использования
